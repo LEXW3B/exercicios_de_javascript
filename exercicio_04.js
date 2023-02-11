@@ -3,13 +3,13 @@
 
 // console.log(message); ReferenceError: message is not defined *-*FORA DO ESCOPO DA FUNÇÃO*-*
 
-function showMenssagem() {
+function showMenssage() {
   const message = 'Olá, essa mensssagem será executada na função.'
 
   console.log(message); // DENTRO DO ESCOPO DA FUNÇÃO
 }
 // console.log(message); ReferenceError: message is not defined *-*FORA DO ESCOPO DA FUNÇÃO*-*
-showMenssagem();
+showMenssage();
 
 // Se quizer chamar fora da função, tem que declarar a variavel no escopo global
 // Somente depois que o número for executado no escopo global, que ele será executado dentro da função.
