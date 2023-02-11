@@ -2,3 +2,6 @@
 Vários exercícios para treinar lógica é javascript.
 
 Para ver os exercícios, acesse pelas branchs.
+<p>
+  <li>click em main e aparecerá as branchs</li>
+</P>
